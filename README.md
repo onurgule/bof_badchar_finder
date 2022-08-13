@@ -20,10 +20,10 @@ If not, upper the length size like 10000 to 15000.
 You don't need to run the application for get offset.
 
 ```
-python2 2_find_offset.py len EIP
+python2 2_get_offset.py len EIP
 ```
 
-Example: `python2 2_find_offset.py 10000 23423889`
+Example: `python2 2_get_offset.py 10000 23423889`
 
 If EIP value is correct, offset will be printed.
 
